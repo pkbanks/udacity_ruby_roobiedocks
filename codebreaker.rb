@@ -24,13 +24,13 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 
 # All your code should go between these lines!
 # ========================
-puts code[1..-1].insert(11, 'A EW? O').
-	gsub('Q','').gsub('?','').gsub(',','').downcase.reverse.capitalize
-
-# puts code[2..-1]
-
-
-
+puts code[1..-1].
+	insert(11, 'A EW? O').
+	gsub('Q','').
+	gsub('?','').
+	gsub(',','').
+	downcase.
+	reverse.capitalize
 
 # ========================
 
