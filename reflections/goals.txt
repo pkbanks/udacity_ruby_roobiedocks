@@ -1,0 +1,20 @@
+hello.
+
+my goals can be categorized by time horizon.  moreover, they are oriented towards the dual objective of developing as a coder and developing as an entrepreneur.
+
+daily and weekly goals
+	• write, edit, or review code every day
+	• push to GitHub at least twice weekly, preferentially much more frequently than that
+
+by July 31, 2016
+	• deploy Peers and Rivals, a web app that provides users with information about how their pay relates to others // features of this app should be based on research and market feedback, not based merely upon what i think people want (perhaps i will use lessons taught by the Tech Entrepreneur Nanodegree program)
+
+	• i am concurrently taking courses in data analytics using python.  i would like to apply this knowledge to develop player evaluation and performance prediction models for ice hockey
+
+by December 31, 2016
+	• prove that Peers and Rivals is business viable
+	• publish to the web and/or via email newsletter hockey player and hockey team evaluations on a regular basis (bi-weekly or monthly)
+
+**	while i am not actively seeking employment, getting a job as a coder
+		would be potentially very good for me.  what that job is, where, and
+		for whom, are totally obscure to me **
